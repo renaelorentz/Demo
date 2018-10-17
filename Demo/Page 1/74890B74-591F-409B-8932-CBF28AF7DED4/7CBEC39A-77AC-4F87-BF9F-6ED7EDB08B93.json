@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "VERSION\nONE"
+    "string": "VERSION\nTWO"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,7 +50,7 @@
     "height": 154,
     "width": 289,
     "x": 43,
-    "y": 290
+    "y": 152
   },
   "glyphBounds": "{{1, 14}, {283, 127}}",
   "isFixedToViewport": false,
@@ -60,7 +60,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "VERSION ONE",
+  "name": "VERSION TWO",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
