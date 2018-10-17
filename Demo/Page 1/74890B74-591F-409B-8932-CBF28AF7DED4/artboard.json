@@ -3,8 +3,8 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
+    "blue": 0,
+    "green": 0,
     "red": 1
   },
   "booleanOperation": -1,
@@ -26,7 +26,7 @@
     "x": 597,
     "y": 211
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -47,6 +47,10 @@
     {
       "class": "text",
       "id": "7CBEC39A-77AC-4F87-BF9F-6ED7EDB08B93"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B7977B52-1973-424B-908E-1DB3BF5A6EA4"
     }
   ],
   "name": "iPhone 8",
